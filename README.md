@@ -33,19 +33,19 @@ Architected an Executive Dashboard to translate complex ML outputs into actionab
 ### A. Feature Correlation & Risk Drivers
 The heatmap below illustrates the strong correlation between **Price Variance (Ratio to Median)** and fraudulent outcomes.
 
-![Correlation Heatmap](screenshot/correlation_heatmap.png) 
+![Correlation Heatmap](dashboard/screenshot/correlation_heatmap.png) 
 *Insight: Identified that Distance and Price Ratio are the primary non-linear drivers of risk.*
 
 ### B. High-Value Segment Analysis
 The Violin Plot highlights the "Smoking Gun"—fraudulent activity is almost exclusively concentrated in high-value outliers.
 
-![Price Ratio Distribution](screenshot/violin_plot.png)
+![Price Ratio Distribution](dashboard/screenshot/violin_plot.png)
 *Insight: Transactions in the 99th percentile of price variance represent over 60% of total fraud volume.*
 
 ### C. Digital Risk Landscape
 A clear visualization of why Digital Transformation requires advanced security protocols.
 
-![Online vs Offline Risk](screenshot/bar_chart.png)
+![Online vs Offline Risk](dashboard/screenshot/bar_chart.png)
 *Insight: Online transactions carry a 13% inherent risk rate compared to <2% for physical chip-based transactions.*
 
 ---
