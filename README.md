@@ -28,6 +28,20 @@ Architected an Executive Dashboard to translate complex ML outputs into actionab
 
 ---
 
+## 📊 Dashboard Overview
+
+### A. Credit Risk & Portfolio Exposure
+![Dashboard Overview](dashboard/screenshots/Dashboard.png)  
+Provides a high-level view of total **credit exposure (25.02bn)** along with key financial indicators like client solvency, portfolio yield, and revenue flow.  
+*Insight: Highlights concentration of capital and overall financial health of the portfolio.*
+
+
+### 🛠️ Tools & Techniques
+- Power BI (Dashboard & Visualization)  
+- Data Analysis & Feature Correlation  
+- Risk Segmentation & Trend Analysis  
+---
+
 ## 📊 Insight Discovery & Visualization
 
 ### A. Feature Correlation & Risk Drivers
