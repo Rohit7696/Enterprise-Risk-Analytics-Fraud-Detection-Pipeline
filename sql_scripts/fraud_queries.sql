@@ -14,3 +14,6 @@ CREATE TABLE transactions (
     fraud INT -- Our Target Column
 );
 
+select * from card_transdata;
+
+select count(*) from card_transdata;
